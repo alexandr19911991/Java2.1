@@ -3,6 +3,6 @@ public class Main {
         int amountInKopecks = 1000;
         int percentInKopecks = 20;
         int bonus = amountInKopecks / percentInKopecks;
-        System.out.println("Здравствуйте Акакий! Ваш бонус равен " + bonus + " миль. Спасибо что пользуетесь нашими авиалиниями.");
+        System.out.println("Здравствуйте Аркадий! Ваш бонус " + bonus + " миль. Спасибо, что пользуетесь нашими авиалиниями.");
     }
 }
